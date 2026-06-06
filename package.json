@@ -1,7 +1,7 @@
 {
   "name": "vulnerable-notes-app",
   "version": "1.0.0",
-  "description": "A simple notes REST API — intentionally vulnerable for pipeline testing",
+  "description": "A simple notes REST API \u2014 intentionally vulnerable for pipeline testing",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
